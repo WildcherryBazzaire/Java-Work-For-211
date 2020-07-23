@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Canvas xmlns="http://www.jgrasp.org">
+  <Language>Java</Language>
+  <ShowTypes>false</ShowTypes>
+  <Version>2</Version>
+  <Grid>
+    <Snap>true</Snap>
+    <Show>false</Show>
+  </Grid>
+  <Scope id="0">
+    <Name>main</Name>
+    <Signature>([Ljava/lang/String;)V</Signature>
+    <DeclaringType>Hospital</DeclaringType>
+    <Depth>0</Depth>
+  </Scope>
+  <Frame>
+    <Bounds>
+      <AutoSize>true</AutoSize>
+      <X>60</X>
+      <Y>170</Y>
+      <W>343</W>
+      <H>164</H>
+    </Bounds>
+    <Viewer>
+      <ScopeID>0</ScopeID>
+      <Expression>`local ListP` hospitalList</Expression>
+      <ViewerClass>jgrasp_viewers.java__lang__Object_LinkedView</ViewerClass>
+    </Viewer>
+  </Frame>
+  <Size>
+    <W>675</W>
+    <H>643</H>
+  </Size>
+  <ESize>
+    <W>675</W>
+    <H>643</H>
+  </ESize>
+</Canvas>
